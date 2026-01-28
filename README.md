@@ -1,4 +1,4 @@
-# Data-Analysis
+# BI Salary Insights Analysis
 
 Project Objective:
 The objective of this project is to apply business intelligence methods and techniques to analyze
